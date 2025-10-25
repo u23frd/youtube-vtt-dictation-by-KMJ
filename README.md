@@ -1,1 +1,1 @@
-# youtube-vtt-dictation-by-Kim-MinJea
+# youtube-vtt-dictation-by-KMJ
